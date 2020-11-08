@@ -4,9 +4,6 @@
 # pixels of image and modify it
 from PIL import Image
 import getpass
-#import pyttsx3
-#pyttsx3.speak("Hi!!! how r u!!!")
- 
 # Convert encoding data into 8-bit binary
 # form using ASCII value of characters
 import cv2
